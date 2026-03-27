@@ -1,0 +1,23 @@
+{
+  "name": "playwright-automation-framework",
+  "version": "1.0.0",
+  "description": "This is Playwright Automation Framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grootste/Playwright-Automation-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/grootste/Playwright-Automation-Framework/issues"
+  },
+  "homepage": "https://github.com/grootste/Playwright-Automation-Framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
